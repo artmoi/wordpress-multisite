@@ -1,0 +1,21 @@
+[submodule "wp-content/plugins/AMHosting-WP-Tools"]
+	path = wp-content/plugins/AMHosting-WP-Tools
+	url = git@github.com:artmoi/AMHosting-WP-Tools.git
+[submodule "wp-content/plugins/cloner"]
+	path = wp-content/plugins/cloner
+	url = git@github.com:kerkness/clonerclone.git
+[submodule "wp-content/plugins/rest-api"]
+	path = wp-content/plugins/rest-api
+	url = git@github.com:WP-API/WP-API.git
+[submodule "wp-content/themes/frame"]
+	path = wp-content/themes/frame
+	url = git@github.com:artmoi/wp-theme-diana-thorneycroft.git
+[submodule "wp-content/themes/lattice"]
+	path = wp-content/themes/lattice
+	url = git@github.com:artmoi/wordpress-template-lattice.git
+[submodule "wp-content/themes/wp-theme-ohler-fine-art"]
+	path = wp-content/themes/wp-theme-ohler-fine-art
+	url = git@github.com:artmoi/wp-theme-ohler-fine-art.git
+[submodule "wp-content/themes/shade"]
+	path = wp-content/themes/shade
+	url = git@github.com:artmoi/wordpress-template-shade.git
