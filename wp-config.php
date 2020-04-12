@@ -22,6 +22,9 @@ define( 'DB_CHARSET', getenv('DB_CHARSET') );
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', getenv('DB_COLLATE') );
 
+/* Avoid needing sftp access */
+define('FS_METHOD', 'direct');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
